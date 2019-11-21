@@ -46,7 +46,7 @@ Each contributor licenses you to do everything with this work that would otherwi
 
 ## Database Rights
 
-Each contributor licenses you to do everything with this work that would otherwise infringe any database rights that contribution may have in it.
+Each contributor licenses you to do everything with this work that would otherwise infringe any database rights that contributor may have in it.
 
 ## Reliability
 
