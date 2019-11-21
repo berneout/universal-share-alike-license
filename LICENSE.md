@@ -46,7 +46,7 @@ Each contributor licenses you to do everything with this work that would otherwi
 
 ## Other Exclusive Rights
 
-Each contributor licenses you to do everything with this work that would otherwise infringe any other exclusive rights in the content or usefulness of the work that the contributor can license or becomes able to license, such as database rights, plan variety rights, and so on.
+Each contributor licenses you to do everything with this work that would otherwise infringe any other exclusive rights in the content or usefulness of the work that the contributor can license or becomes able to license.  This licenses covers database rights, plant variety rights, but not trademarks or service marks.
 
 ## Reliability
 
