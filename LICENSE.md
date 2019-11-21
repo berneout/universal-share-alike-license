@@ -44,9 +44,9 @@ Each contributor licenses you to do everything with this work that would otherwi
 
 Each contributor licenses you to do everything with this work that would otherwise infringe any patent claims they can license or become able to license.
 
-## Database Rights
+## Other Exclusive Rights
 
-Each contributor licenses you to do everything with this work that would otherwise infringe any database rights that contributor may have in it.
+Each contributor licenses you to do everything with this work that would otherwise infringe any other exclusive rights in the content or usefulness of the work that the contributor can license or becomes able to license, such as database rights, plan variety rights, and so on.
 
 ## Reliability
 
