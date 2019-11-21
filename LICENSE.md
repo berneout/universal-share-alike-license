@@ -1,50 +1,32 @@
-# The Parity Public License Development Draft
+# The Universal Copyleft License
 
-Contributor: $name
-
-Source Code: $address
+Development Draft
 
 ## Purpose
 
-This license allows you to use and share this software for free, but you have to share software that builds on it alike.
+This license allows you to use and share this work for free, but you have to share work that builds on it alike.
 
 ## Agreement
 
-In order to receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this software that triggers a rule you can't or won't follow.
+In order to receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this work that triggers a rule you can't or won't follow.
 
 ## Notices
 
-Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
+Make sure everyone who gets a copy of any part of this work from you, with or without changes, also gets the text of this license.
 
 ## Copyleft
 
-[Contribute](#contribute) software you develop, operate, or analyze with this software, including changes or additions to this software.  When in doubt, [contribute](#contribute).
-
-## Prototypes
-
-You don't have to [contribute](#contribute) any change, addition, or other software that meets all these criteria:
-
-1.  You don't use it for more than thirty days.
-
-2.  You don't share it outside the team developing it, other than for non-production user testing.
-
-3.  You don't develop, operate, or analyze other software with it for anyone outside the team developing it.
-
-## Reverse Engineering
-
-You may use this software to operate and analyze software you can't [contribute](#contribute) in order to develop alternatives you can and do [contribute](#contribute).
+[Contribute](#contribute) work make or use with this work, including changes or additions to this work.  When in doubt, [contribute](#contribute).
 
 ## Contribute
 
-To [contribute](#contribute) software:
+To [contribute](#contribute) work:
 
-1.  Publish all source code for the software in the preferred form for making changes through a freely accessible distribution system widely used for similar source code so the contributor and others can find and copy it.
+1.  Publish the work, in the preferred form for use and making changes, through a freely accessible distribution system widely used for similar work so others can find and copy it.
 
-2.  Make sure every part of the source code is available under this license or another license that allows everything this license does, such as [the Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0), [the Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), [the MIT license](https://spdx.org/licenses/MIT.html), or [the two-clause BSD license](https://spdx.org/licenses/BSD-2-Clause.html).
+2.  Make sure every part of the work is available under this license.
 
 3.  Take these steps within thirty days.
-
-4.  Note that this license does _not_ allow you to change the license terms for this software.  You must follow [Notices](#notices).
 
 ## Excuse
 
@@ -52,20 +34,24 @@ You're excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute
 
 ## Defense
 
-Don't make any legal claim against anyone accusing this software, with or without changes, alone or with other technology, of infringing any patent.
+Don't make any legal claim against anyone accusing this work, with or without changes, alone or with other technology, of infringing any patent.
 
 ## Copyright
 
-The contributor licenses you to do everything with this software that would otherwise infringe their copyright in it.
+Each contributor licenses you to do everything with this work that would otherwise infringe that contributor's copyright in it.
 
 ## Patent
 
-The contributor licenses you to do everything with this software that would otherwise infringe any patents they can license or become able to license.
+Each contributor licenses you to do everything with this work that would otherwise infringe any patent claims they can license or become able to license.
+
+## Database Rights
+
+Each contributor licenses you to do everything this work that would otherwise infringe any database rights that contribution may have in it.
 
 ## Reliability
 
-The contributor can't revoke this license.
+No contributor can revoke this license.
 
 ## No Liability
 
-***As far as the law allows, this software comes as is, without any warranty or condition, and the contributor won't be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
+***As far as the law allows, this work comes as is, without any warranty or condition, and the contributor won't be liable to anyone for any damages related to this work or this license, under any kind of legal claim.***
