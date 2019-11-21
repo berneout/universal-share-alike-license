@@ -38,7 +38,7 @@ Don't make any legal claim against anyone accusing this work, with or without ch
 
 ## Copyright
 
-Each contributor licenses you to do everything with this work that would otherwise infringe that contributor's copyright in it.
+Each contributor licenses you to do everything with this work that would otherwise infringe their copyright in it.
 
 ## Patent
 
