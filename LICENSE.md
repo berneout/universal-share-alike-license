@@ -22,7 +22,7 @@ Make sure everyone who gets a copy of any part of this work from you, with or wi
 
 To [contribute](#contribute) work:
 
-1.  Publish the work, in the preferred form for use and making changes, through a freely accessible distribution system widely used for similar work so others can find and copy it.
+1.  Publish the work, in the preferred forms for use and making changes, through a freely accessible distribution system widely used for similar work so others can find and copy it.
 
 2.  Make sure every part of the work is available under this license.
 
