@@ -16,11 +16,11 @@ Make sure everyone who gets a copy of any part of this work from you, with or wi
 
 ## Share Alike
 
-[Contribute](#contribute) work that you make or use with this work, including changes or additions to this work.  When in doubt, [contribute](#contribute).
+[Share](#share) work that you make or use with this work, including changes or additions to this work.  When in doubt, [share](#share).
 
-## Contribute
+## Share
 
-To [contribute](#contribute) work:
+To [share](#share) work:
 
 1.  Publish the work, in the preferred forms for use and making changes, through a freely accessible distribution system widely used for similar work so others can find and copy it.
 
@@ -30,7 +30,7 @@ To [contribute](#contribute) work:
 
 ## Excuse
 
-You're excused for unknowingly breaking [Share Alike](#share-alike) if you [contribute](#contribute) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
+You're excused for unknowingly breaking [Share Alike](#share-alike) if you [share](#share) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
 
 ## Copyright
 
