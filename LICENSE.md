@@ -4,7 +4,7 @@ Development Draft
 
 ## Purpose
 
-This license allows you to use and share this work for free, but you have to share work that builds on it alike.
+This license allows you to use and share this work for free, but you have to share work that you make or use with this work alike.
 
 ## Agreement
 
