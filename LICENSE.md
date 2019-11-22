@@ -16,7 +16,7 @@ Make sure everyone who gets a copy of any part of this work from you, with or wi
 
 ## Copyleft
 
-[Contribute](#contribute) work make or use with this work, including changes or additions to this work.  When in doubt, [contribute](#contribute).
+[Contribute](#contribute) work that you make or use with this work, including changes or additions to this work.  When in doubt, [contribute](#contribute).
 
 ## Contribute
 
