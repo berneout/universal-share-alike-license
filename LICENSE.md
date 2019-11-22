@@ -1,4 +1,4 @@
-# The Universal Share Alike License
+# The Universal Share-Alike License
 
 Development Draft
 
