@@ -32,10 +32,6 @@ To [contribute](#contribute) work:
 
 You're excused for unknowingly breaking [Share Alike](#share-alike) if you [contribute](#contribute) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
 
-## Defense
-
-Don't make any legal claim against anyone accusing this work, with or without changes, alone or with other technology, of infringing any patent.
-
 ## Copyright
 
 Each contributor licenses you to do everything with this work that would otherwise infringe their copyright in it.
@@ -43,6 +39,10 @@ Each contributor licenses you to do everything with this work that would otherwi
 ## Patent
 
 Each contributor licenses you to do everything with this work that would otherwise infringe any patent claims they can license or become able to license.
+
+## Defense
+
+Don't make any legal claim against anyone accusing this work, with or without changes, alone or with other technology, of infringing any patent.
 
 ## Other Exclusive Rights
 
