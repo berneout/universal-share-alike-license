@@ -1,4 +1,4 @@
-# The Universal Copyleft License
+# The Universal Share Alike License
 
 Development Draft
 
@@ -14,7 +14,7 @@ In order to receive this license, you have to agree to its rules.  Those rules a
 
 Make sure everyone who gets a copy of any part of this work from you, with or without changes, also gets the text of this license.
 
-## Copyleft
+## Share Alike
 
 [Contribute](#contribute) work that you make or use with this work, including changes or additions to this work.  When in doubt, [contribute](#contribute).
 
@@ -30,7 +30,7 @@ To [contribute](#contribute) work:
 
 ## Excuse
 
-You're excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute](#contribute) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
+You're excused for unknowingly breaking [Share Alike](#share-alike) if you [contribute](#contribute) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
 
 ## Defense
 
