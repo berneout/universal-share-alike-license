@@ -20,7 +20,7 @@ Make sure everyone who gets a copy of any part of this work from you, with or wi
 
 ## How to Share
 
-To [share](#how-to-share) work:
+To share work:
 
 1.  Publish the work, in the preferred forms for use and making changes, through a freely accessible distribution system widely used for similar work so others can find and copy it.
 
